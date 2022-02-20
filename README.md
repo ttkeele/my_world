@@ -1,0 +1,1 @@
+Random fun things I wanted to build. Most of this will be html, css, or js
