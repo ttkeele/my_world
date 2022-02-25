@@ -7,3 +7,5 @@ for(let i = 1; i <= num; i++) {
          else console.log(i); /* not divisible by 2 or 3 */
     }
 }
+
+fizzBuzz(100);
